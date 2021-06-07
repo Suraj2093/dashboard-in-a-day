@@ -30,6 +30,6 @@
    ![](images/vm-restart.png)
 
 ## Environemnt Setup and Overview
-Your **odl_user** is provided with the *PowerBI* license.
+Your **odl_user** is provided with the *PowerBI Pro* license. You can access the PowerBI desktop application which is pre-installed for you and available on the the Vitual Machine desktop.
    
 Now you can proceed with the rest of the exercises that are available in the lab VM at ***C:\DIAD\Attendee\A4***, you can start from **Lab 1 - Accessing and Preparing Data A4**.
